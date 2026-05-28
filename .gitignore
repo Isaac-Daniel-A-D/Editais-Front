@@ -1,0 +1,39 @@
+node_modules/
+.expo/
+dist/
+npm-debug.*
+yarn-debug.*
+yarn-error.*
+# macOS
+.DS_Store
+
+# IDEs
+.idea/
+*.iml
+/.vscode/
+
+# Android/iOS native
+/android/
+/ios/
+
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# Build artifacts
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+*.orig.*
+*.apk
+*.aab
+*.ipa
+
+# Testing
+/coverage
+
+# Expo Web
+web-build/

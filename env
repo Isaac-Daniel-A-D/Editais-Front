@@ -1,0 +1,14 @@
+USERS_DB_PATH=users.db
+
+ADMIN_NAME=Admin
+ADMIN_EMAIL=pafs@cesar.school
+ADMIN_PASSWORD=SenhaForte1
+
+MONGO_URI=mongodb+srv://pafs_db_user:Sxg8G9qYdRqvslGB@cluster0.jgbctmb.mongodb.net/?appName=Cluster0
+
+GROQ_API_KEY=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
+
+PREFECT_API_URL=https://api.prefect.cloud/api/accounts/ccf1b58e-0877-4468-b8fc-1f17e5a0a4c8/workspaces/6b390b19-0a57-463f-98cd-6decc7dabea7
+PREFECT_API_KEY=cli-04663550-413e-4a1e-8cdc-2eae7b81c872
+
+ANONYMIZATION_SALT=pncp-salt-2026
